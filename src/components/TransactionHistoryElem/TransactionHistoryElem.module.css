@@ -1,9 +1,9 @@
-tr {
+.tr {
   border: 1px solid #000;
 }
-tr:nth-child(2n) {
+.tr:nth-child(2n) {
   background-color: rgb(170, 170, 170);
 }
-td {
+.td {
   border: 1px solid #000;
 }
