@@ -1,0 +1,16 @@
+.conteiner {
+  width: 600px;
+  margin-top: 20px;
+  text-align: center;
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+.tr {
+  font-size: 20px;
+  color: #fff;
+  background-color: #2e2e2e;
+  border: 1px solid #000;
+}
+.th {
+  border: 1px solid #000;
+}
